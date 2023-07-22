@@ -1,5 +1,5 @@
 /*  your css code here. If applicable */
 table, tr, td,th{
 	background-color:yellow;
-	border:1px outset rgb(128,128,128);
+	border:1px solid rgb(0,0,0);
 }
