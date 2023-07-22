@@ -1,4 +1,5 @@
 /*  your css code here. If applicable */
-table{
+table, tr, td,th{
 	background-color:yellow;
+	border:1px outset rgb(128,128,128);
 }
